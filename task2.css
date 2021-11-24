@@ -1,0 +1,84 @@
+html{
+    width: 100vw;
+}
+nav{
+    height: 77px;
+    display: block;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    max-width: 100vw;
+    max-height: 100vh;
+    font-family: "Roboto", sans-serif;
+}
+#mainNavbar{
+    padding-top: 0px;
+}
+#mainNavbar .nav-link{
+    margin-left: 40px;
+    font-size: 10.6px;
+    color: black;
+    padding: 0%;
+    padding-top: 36.33px;
+}
+.navbar-brand{
+    margin: 0;
+}
+#main{
+    margin-left: 286px;
+    width:64.6px;
+    height: 37.33px;
+    margin-top: 6px;
+}
+#pets{
+    width:110px;
+    height: 31.3px;
+    border-radius: 3px;
+}
+#rect{
+    position: absolute;
+    top:117.3px;
+    width: 282.3px;
+    height: 329.67px;
+    left: 261.73px;
+}
+#rect2{
+    position: absolute;
+    top:157.176px;
+    width: 362.97px;
+    height: 243.09px;
+    left: 299.7px;
+}
+#rect3{
+    position: absolute;
+    top:115.198px;
+    width: 471px;
+    height: 346.3px;
+    left: 239.3px;
+}
+#one{
+    position: absolute;
+    left: 722.61px;
+    top: 224.4px;
+    display: flex;
+    width: 317.8px;
+    height: 96.57px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#one div{
+    display: block;
+    font-size: 26.64px;
+    font-weight: 900;
+    font-family: 'Roboto';
+}
+#one button{
+    width: 130.53px;
+    box-sizing: border-box;
+    height: 36.63px;
+    color: white;
+    background-color: #F45201;
+    border: 1px solid #F45201;
+    border-radius: 5px;
+}
